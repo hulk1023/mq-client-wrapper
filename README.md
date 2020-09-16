@@ -28,3 +28,6 @@ $ npm run start:prod
 class BizModel {
   constructor(@Inject(PuPubSubClientKafkabSub) private mqclient: PubSubClient) {}
 ```
+
+## License
+This is [MIT licensed](LICENSE) project.
